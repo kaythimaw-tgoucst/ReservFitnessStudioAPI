@@ -118,6 +118,10 @@ Request body:
 
 ## Run Locally
 
+## Database Script
+
+- Initial SQL schema script: `Database/Scripts/V1__init.sql`
+
 1. Update `appsettings.json` connection strings and JWT settings.
 2. Start dependencies (SQL Server and Redis).
 3. Run:
