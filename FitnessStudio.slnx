@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FitnessStudio.Application/FitnessStudio.Application.csproj" Id="c6f30839-0ccd-452a-935e-80b0e5961e8a" />
+  <Project Path="FitnessStudio.Domain/FitnessStudio.Domain.csproj" Id="00df2863-187b-42d1-90b7-f36bb5a243b4" />
+  <Project Path="FitnessStudio.Infrastructure/FitnessStudio.Infrastructure.csproj" Id="9424189d-ef34-4755-acce-dc71e3bcb613" />
+  <Project Path="FitnessStudioAPI/FitnessStudio.API.csproj" />
+  <Project Path="FitnessStudio.Tests/FitnessStudio.Tests.csproj" />
+</Solution>
